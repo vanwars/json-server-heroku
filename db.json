@@ -1,16 +1,16 @@
 {
-    "photos": [
-          {
-              "id": 1,
-              "url": "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12193133/German-Shepherd-Puppy-Fetch.jpg",
-              "caption": "Puppy running to fetch the stick"
-          }
-    ],
-    "comments": [
-      {
-          "id": 1,
-          "post_id": 1,
-          "text": "that's really cute"
-      }
-    ]
+  "photos": [
+    {
+      "id": 1,
+      "url": "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12193133/German-Shepherd-Puppy-Fetch.jpg",
+      "caption": "Puppy running to fetch the stick"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "post_id": 1,
+      "text": "that's really cute"
+    }
+  ]
 }
